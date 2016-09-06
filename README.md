@@ -7,6 +7,7 @@
 - Python ( Python 2 )
 - Ruby
 ## Feature
+
 ### Information Gathering
 - PenMode
 - Nmap
@@ -14,6 +15,7 @@
 - dmitry
 - maltego
 - spiderfoot
+
 ### Vulnerability Assessment
 - CVE-Checker
 - inurlbr
@@ -22,6 +24,7 @@
 - lynis
 - ike-skan
 - openvas ( unstable )
+
 ### Exploitation
 - metasploit
 - armitage
@@ -32,6 +35,7 @@
 - websploit
 - termineter
 - shellnoob
+
 ### Maintaining Access
 - backdoor-factory
 - weevely
@@ -42,16 +46,23 @@
 - pupy
 
 # OSPTF ( GUI *BETA* VERSION )
+
+## Requirement
+- Linux Based Web Server
+
 ### Information Gathering
 - Sniper
 - D-TECT
+
 ### Vulnerability Assessment
 - CVE-Checker
 - nikto
+
 ### Exploitation
 - sqlmap
 - commix
 - FTP-Auto-Bypass
+
 ### Maintaining Access
 - BetterAndroRAT
 - BetterRAT
